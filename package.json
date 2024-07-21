@@ -1,0 +1,14 @@
+{
+    "name": "com.kentank.UITemplate",
+    "version": "1.0.0",
+    "displayName": "KenTank - UI Template",
+    "description": "UI Template",
+    "author": {
+        "name": "KenTank",
+        "email": "kentank.dev@gmail.com",
+        "url": "https://github.com/ken-tank"
+    },
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.9"
+    }
+}
